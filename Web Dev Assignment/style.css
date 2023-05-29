@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+    color: antiquewhite;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.head{
+    color: rgb(174, 62, 226);
+}
+
+.img{
+    width: 40rem;
+    height: 25rem;
+    border-radius: 30px;
+    float:inline-end;
+}
+
+.p{
+    color: red;
+    font-style: italic;
+    /* font-style: bold; */
+}
